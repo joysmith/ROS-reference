@@ -1,3 +1,3 @@
-- [Linux for robotics course](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUR1akhVNDFJdnFXSUhZaXMzempSODZPbTFYd3xBQ3Jtc0trT2JCblNJbVFwTkIyeVo2NkFxN0hycDlycVA3eC1nZFZnNkxndXRRYlA5NXFiRGdGclVvSUlHRldzSHB6SkM0WWJYNU5PaER6bWpxYlFTbXVFTEMxQksyVmhvMlhNNWxqY09JN3BfNHVBZEZTRmctSQ&q=https%3A%2F%2Fapp.theconstruct.ai%2Fcourses%2F185&v=ZD1WHWE0504)
+- [youtube]()
 
--
+- [Linux for robotics course](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUR1akhVNDFJdnFXSUhZaXMzempSODZPbTFYd3xBQ3Jtc0trT2JCblNJbVFwTkIyeVo2NkFxN0hycDlycVA3eC1nZFZnNkxndXRRYlA5NXFiRGdGclVvSUlHRldzSHB6SkM0WWJYNU5PaER6bWpxYlFTbXVFTEMxQksyVmhvMlhNNWxqY09JN3BfNHVBZEZTRmctSQ&q=https%3A%2F%2Fapp.theconstruct.ai%2Fcourses%2F185&v=ZD1WHWE0504)
