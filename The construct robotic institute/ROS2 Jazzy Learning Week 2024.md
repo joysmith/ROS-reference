@@ -28,6 +28,10 @@
 
 - [Understanding Topics](https://app.theconstruct.ai/rosjects/898052/)
 
+note:
+
+- there is one node publishing to this topic and one node subscribing to this topic
+
 <br>
 
 ### 5 Day
