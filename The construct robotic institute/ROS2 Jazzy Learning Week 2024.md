@@ -30,12 +30,16 @@
 
 note:
 
-- there is one node publishing to this topic and one node subscribing to this topic
+- there is one **node** publishing to this topic and one **node** subscribing to this topic
+- setup.py(os code line): Installing all the launch file in the ROS2 system
+- In ROS2 use timer callback function instead of for, while any loop, in short avoid loop in ROS2
+- every subscriber has a callback function associated to it
+-
 
 <br>
 
 ### 5 Day
 
-- []()
+- [youtube](https://www.youtube.com/watch?v=-roYHqI_Vc4&list=PLK0b4e05LnzaoPprZ8j0d7TFm3O__JU-U&index=1)
 
-- []()
+- [Final Project](https://app.theconstruct.ai/rosjects/898835/)
