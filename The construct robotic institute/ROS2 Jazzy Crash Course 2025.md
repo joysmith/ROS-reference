@@ -1,2 +1,2 @@
 - [youtube](https://www.youtube.com/watch?v=Se5pvRlTX8s)
--
+- [ROS2 Jazzy Crash Course 2025](https://app.theconstruct.ai/rosjects/898950/)
