@@ -45,4 +45,5 @@ What is ROS2: ROS2 is an ecosystem/environment where several nodes/systems excha
 
 ### 5 Part: Robot frames and transformer
 
+- There is no roscore in ROS2 like ROS1
 -
