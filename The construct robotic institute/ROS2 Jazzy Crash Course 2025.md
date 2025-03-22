@@ -32,5 +32,9 @@ What is ROS2: ROS2 is an ecosystem/environment where several nodes/systems excha
 
 - Rviz2: ros2 visualizer
 - Rviz2 has model aka "visualizer" in technical term
-- Gazibo is a simulation think like a real **robot** uses for experiment and rviz2 is using the **robot** data for visualizing provided by gazebo simulation
--
+- Gazibo is a simulation think like a real **robot** uses for experiment and rviz2 is using the **robot** data provided by gazebo simulation for visualizing
+- Notics: my focus was on physic engine or simulation rather than robot in simulation. my focus should be on **robot** in simulation.
+
+<br>
+
+### 4 Part: Rviz
